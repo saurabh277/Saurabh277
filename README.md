@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello everybody I'm Saurabh 😎
+About me
+🔭 I’m currently working as a Platform Architecture Engineer
+🌱 I’m currently learning SRE tools and DevOps culture
+👯 I’m looking to collaborate on any project that involve my abilities
+💬 Ask me about Software Architecture, Microservices, Kubernetes, Docker, Golang, Cloud, CI/CD and Observability.
+
+Knowledge
+Languages Python Go C++
+
+Others Technologies Docker Kubernetes Helm Nodejs
+
+Cloud Providers AWS Azure
+
+Monitoring Prometheus Grafana 
+
+CI/CD GitLab Jenkins 
+
+Database MySQL MongoDB
+
+Operational System Linux Windows
+
+Versioning and Communication Git GitHub 
